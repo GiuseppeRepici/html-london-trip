@@ -9,23 +9,23 @@ img{
     margin-top: -10px;
 }
 table{
-    font-size: 12px;
+    font-size: 10px;
     margin-top: 5px;
 }
 
 .titolo{
-    font-size: 15px;
+    font-size: 13px;
     margin-bottom: 1%;
 }
 
 li{
-    font-size: 10px;
+    font-size: 8px;
     margin-top: 0;
     margin-bottom: 0;
 }
 
 .titolo1 {
-    font-size: 13px;
+    font-size: 11px;
     margin-bottom: 0;
 }
 
@@ -35,6 +35,22 @@ ol{
 }
 
 .titolo2{
-    font-size: 13px;
+    font-size: 11px;
     margin-bottom: 0;
+}
+
+.foto1{
+    display: inline-block;
+    height: 180px;
+    width: 180px;
+    background-image: url(https://www.abta.com/sites/default/files/styles/large/public/media/uploads/london-400x400-compressor_0.jpg);
+    background-size: cover;
+}
+
+.foto2{
+    display: inline-block;
+    height: 180px;
+    width: 180px;
+    background-image: url(https://pokerstarscareers.com/wp-content/uploads/2020/01/London-Wider-Area-e1597319992670-400x400.jpg);
+    background-size: cover;
 }
